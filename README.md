@@ -16,6 +16,5 @@
 
 ### 📫 Contact Me
 - 📧 Email: **41203eric@gmail.com**  
-- 🐙 GitHub: [github.com/wangho41203](https://github.com/wangho41203)  
 
 ---
