@@ -3,8 +3,7 @@
 **wangho41203/wangho41203** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 
 ### 🌟 About Me
-- 💼 Previous experience: **Marketing Planning** (E-commerce, social media, and project execution)  
-- 🔭 Currently working on **AI-related projects**  
+- 💼 Previous experience: **Marketing Planning** (E-commerce, social media, and project execution)   
 - 🌱 Currently learning more about **AI & Data Applications**  
 - 😄 Pronouns: **Cool** 😎  
 
